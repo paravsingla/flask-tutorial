@@ -1,0 +1,26 @@
+---
+layout: none
+---
+<!DOCTYPE html>
+{%- include snippets/get-lang.html -%}
+<html lang="{{ __return }}">
+  <head>
+    <script data-name="BMC-Widget" src="https://cdnjs.buymeacoffee.com/1.0.0/widget.prod.min.js" data-id="paravsingla" data-description="Buy me a coffee!" data-message="If you like the book, you can buy me a coffee!" data-color="#fc4d50" data-position="right" data-x_margin="18" data-y_margin="18"></script>
+    {%- include analytics.html -%}
+    {%- include head.html -%}
+    <script>
+      {%- include scripts/utils/utils.js -%}
+      {%- include scripts/lib/throttle.js -%}
+      {%- include scripts/lib/lazyload.js -%}
+    </script>
+    {%- include scripts/variables.html -%}
+  </head>
+  <body>
+    <div class="root" data-is-touch="false">
+      {{ content }}
+    </div>
+    <script>
+      {%- include scripts/common.js -%}
+    </script>
+  </body>
+</html>

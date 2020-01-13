@@ -1,0 +1,100 @@
+header:
+  - title:      Home
+    url:        /
+  - title:      Book
+    url:        /book/preface
+    key:        book
+  - title:      Code
+    url:        /code.html
+  - title:      Blog
+    url:        /archive.html
+
+
+book:
+  - title:      Preface
+#     children:
+#       - title:  Quick Start
+#         url:    /book/quick-start
+#       - title:  Structure
+#         url:    /book/structure
+#       - title:  Update from 1.x to 2.x
+#         url:    /book/update-from-1-to-2
+#   - title:      Customization
+#     children:
+#       - title:  Configuration
+#         url:    /book/configuration
+#       - title:  Navigation
+#         url:    /book/navigation
+#       - title:  Layouts
+#         url:    /book/layouts
+#       - title:  Logo and Favicon
+#         url:    /book/logo-and-favicon
+#       - title:  Authors
+#         url:    /book/authors
+#       - title:  Internationalization
+#         url:    /book/i18n
+#   - title:      Content
+#     children:
+#       - title:  Writing Posts
+#         url:    /book/writing-posts
+#       - title:  Additional Styles
+#         url:    /book/additional-styles
+#       - title:  Extensions
+#         url:    /book/extensions
+#       - title:  Markdown Enhancements
+#         url:    /book/markdown-enhancements
+#   - title:      Extra
+#     children:
+#       - title:  Spacing
+#         url:    /book/spacing
+#       - title:  Grid
+#         url:    /book/grid
+#       - title:  Icons
+#         url:    /book/icons
+#       - title:  Image
+#         url:    /book/image
+#       - title:  Button
+#         url:    /book/button
+#       - title:  Item
+#         url:    /book/item
+#       - title:  Card
+#         url:    /book/card
+#       - title:  Hero
+#         url:    /book/hero
+#       - title:  Swiper
+#         url:    /book/swiper
+#
+#
+#
+#
+#
+# layouts:
+#   - title: Layouts
+#     children:
+#       - title:  Single
+#         url:    /page/single.html
+#       - title:  Aside
+#         url:    /page/aside.html
+#       - title:  Sidebar
+#         url:    /page/sidebar.html
+#
+#       - title:  Sidebar (Aside)
+#         url:    /page/sidebar-aside.html
+#       - title:  Article Header Overlay Background Fill
+#         url:    /page/article-header-overlay-background-fill.html
+#       - title:  Article Header Overlay Background Image
+#         url:    /page/article-header-overlay-background-image.html
+#
+#       - title:  Article Header Image
+#         url:    /page/article-header-cover-image.html
+#       - title:  Article Header Overlay Background Image (Customized Header Background)
+#         url:    /page/article-header-overlay-background-image-header-background.html
+#       - title:  Article Header Image (Customized Header Background)
+#         url:    /page/article-header-cover-image-header-background.html
+#
+#       - title:  Article Header Overlay Background Fill (Immersive + Translucent Header)
+#         url:    /page/article-header-overlay-background-fill-immersive-translucent-header.html
+#       - title:  Article Header Overlay Background Image (Immersive + Translucent Header)
+#         url:    /page/article-header-overlay-background-image-immersive-translucent-header.html
+#       - title:  Article Header Image (Immersive + Translucent Header)
+#         url:    /page/article-header-cover-image-immersive-translucent-header.html
